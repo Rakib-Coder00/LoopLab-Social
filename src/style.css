@@ -41,3 +41,15 @@ body{
     padding: 0.3rem;
     border-radius: 0.3rem;
 }
+#create .fas{
+    color: #008ed6;
+    background: #fff;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+}
+#share .fas{
+    color: #fff;
+    background: #333;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+}
